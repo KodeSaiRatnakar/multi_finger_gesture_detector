@@ -1,7 +1,14 @@
 name: multi_finger_gesture_detector
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "Multi Finger Gesture Detector is custom widget for detecting multiple fingers gestures, Its use GestureDetector Widget to detect gestures."
+version: 1.0.0
+homepage: https://github.com/KodeSaiRatnakar
+
+# platforms:
+#   android:
+#   ios:
+#   macos:
+#   web:
+#   windows:
 
 environment:
   sdk: ">=3.4.1 <4.0.0"
