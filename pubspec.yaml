@@ -1,7 +1,9 @@
 name: multi_finger_gesture_detector
 description: "Multi Finger Gesture Detector is custom widget for detecting multiple fingers gestures, Its use GestureDetector Widget to detect gestures."
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/KodeSaiRatnakar
+repository: https://github.com/KodeSaiRatnakar/multi_finger_gesture_detector
+issue_tracker: https://github.com/KodeSaiRatnakar/multi_finger_gesture_detector/issues
 
 # platforms:
 #   android:
